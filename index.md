@@ -74,4 +74,4 @@ The interaction of passenger counts and bike availability can also be visualized
 
 ### Notes
 
-- See the [source code](https://github.com/golete/bike-bus-project/blob/main/550-Final_Main.ipynb) that produced these plots.
+- See the [source code](https://github.com/golete/bike-bus-project/blob/main/550-Final_Main.ipynb) that retrieved this information and produced the resulting plots.
