@@ -10,7 +10,6 @@ hv-loader:
 
 # Multimodal bike-bus interactions in NYC
 
-## Introduction
 
 What is the relationship between bus arrivals and departures from a metropolitan bus stop in New York City, and the bike-share use in their vicinity? Is there a way to assess the interactions between both systems in order to provide advantages to users that transfer between both systems? 
 
