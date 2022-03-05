@@ -2,7 +2,7 @@ title: MUSA 550
 logo: /assets/img/logo.png
 description: Geospatial Data Science in Python.
 show_downloads: false
-repository: golete/bike-bus
+repository: golete/bike-bus/
 google_analytics:
 remote_theme: pages-themes/minimal
 plugins:
