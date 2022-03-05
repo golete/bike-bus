@@ -5,7 +5,7 @@ altair-loader:
   altair-chart-2: "charts/bikecountAltair-062.json"
   altair-chart-3: "charts/bikecountAltair-111.json"
 hv-loader:
-  hv-chart-1: ["charts/passengerCount.html", "500"] # second argument is the desired height
+  hv-chart-1: ["charts/passengerCount2.html", "500"] # second argument is the desired height
 ---
 
 # Multimodal bike-bus interactions in NYC
