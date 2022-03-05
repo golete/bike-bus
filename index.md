@@ -60,7 +60,8 @@ These interactions are also visualized with a map of the bus units on the M15 ro
 
 ## Passenger counts
 
-The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. This can be visualized by bus unit and the point in time that they stopped at one of the observed locations.
+The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. This can be visualized by each bus unit unique identifier (VehicleRef) and the point in time they stopped at one of the observed locations.
+
 
 <div id="hv-chart-1"></div>
 
@@ -71,6 +72,6 @@ The interaction of passenger counts and bike availability can also be visualized
 ![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/img/busPass.gif)
 
 
-## Notes
+### Notes
 
 - See the [jupyter notebook](https://github.com/golete/bike-bus-project/blob/main/550-Final_Main.ipynb) that produced these plots.
