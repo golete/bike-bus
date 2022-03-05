@@ -59,17 +59,13 @@ These interactions are also visualized with a map of the bus units on the M15 ro
 
 ## Passenger counts
 
-The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. This can be visualized by each bus unit unique identifier (VehicleRef) and the point in time they stopped at one of the observed locations.
-
-
-<div id="hv-chart-1"></div>
-
-
-The interaction of passenger counts and bike availability can also be visualized as a graduated symbol map that changes in time:
-
+The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. The interaction of passenger counts and bike availability can also be visualized as the change in units map that changes in time:
 
 ![Alt Text]({{ site.url }}{{ site.baseurl }}/assets/img/busPass.gif)
 
+Additionally, we can look for the change in time of the passenger count in each bus (according to its 'VehicleRef' unique identifier) and comparte it to the point in time that the bus stopped at one of the observed locations.
+
+<div id="hv-chart-1"></div>
 
 ### Notes
 
