@@ -19,7 +19,6 @@ By creating a method to simultaneously retrieve real-time geolocated data from b
 * The bus stop-bike dock pair had to be at least three blocks away from any Subway stations.
 * The bus stop had to only serve the bus route observed.
 * The three locations had to be sufficiently far apart to show different socioeconomic or demographic conditions.
-* 
 
 ![map showing MTA transit system]({{ site.url }}{{ site.baseurl }}/assets/img/bbmm_01.png)
 
@@ -61,7 +60,7 @@ These interactions are also visualized with a map of the bus units on the M15 ro
 
 ## Passenger counts
 
-The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. This can be visualized by bus unit and period of time they stopped at one of the observed locations.
+The data retrieved from the coordinated API call also includes an estimated passenger count of each bus unit. This can be visualized by bus unit and the point in time that they stopped at one of the observed locations.
 
 <div id="hv-chart-1"></div>
 
